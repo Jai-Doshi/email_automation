@@ -6,8 +6,8 @@ from email.header import Header
 from email.utils import formataddr
 
 
-gmailaddress = 'portfolio4cv@gmail.com'
-gmailpassword = 'Badshah2001'
+gmailaddress = '***********@gmail.com'
+gmailpassword = '*********'
 
 my_friends = {
     0:{
